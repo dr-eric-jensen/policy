@@ -1,6 +1,6 @@
 # URSSI Policy Project
 
-This repository is the home of work done in the URSS Policy project, [funded by the Alfred P. Sloan Foundation](https://sloan.org/grant-detail/10073).
+This repository is the home of work done in the URSSI Policy project, [funded by the Alfred P. Sloan Foundation](https://sloan.org/grant-detail/10073).
 
 ## Seeking postdoc
 
